@@ -1,0 +1,23 @@
+{
+	"Review Technical References and Guides Section": {
+		"pageTitle": "Selenium - Web Browser Automation"
+	},
+	"Student Information posted": {
+		"studentName": "fake_student"
+	},
+
+	
+	"Validating View Time-Track Page": {
+	"actiViewTitle": "actiTIME - View Time-Track",
+	"MonthType": "Current Month",
+	"Month": "Previous month",
+	"Time": "Total Time"
+	},
+	
+	"Validating login with positive credentials": {
+		"facebookTitle": "facebook",
+		"user1": "smiddleton393@gmail.com",
+		"pass1": ""
+	}
+}
+	
